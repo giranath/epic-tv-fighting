@@ -1,0 +1,14 @@
+#!/usr/bin/env sh
+
+EXECUTABLE_NAME="epictvfighting"
+EXECUTABLE_DIR="bin"
+ASSETS_DIR="asset"
+CWD=$(pwd)
+
+if [ -f $EXECUTABLE_DIR/$EXECUTABLE_NAME ]; then
+    cd $ASSETS_DIR
+    ../$EXECUTABLE_DIR/$EXECUTABLE_NAME
+    cd $PWD
+else
+    echo "You must build the game before launching it"
+fi
