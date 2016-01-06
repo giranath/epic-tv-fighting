@@ -1,0 +1,22 @@
+name: Ruku-san
+health: 100
+sequences{
+  file: datas/players/rukusan/rukusan_idle.seq
+  file: datas/players/rukusan/rukusan_walking.seq
+  file: datas/players/rukusan/rukusan_versus.seq
+  file: datas/players/rukusan/rukusan_block.seq
+  file: datas/players/rukusan/rukusan_hit.seq
+  file: datas/players/rukusan/rukusan_jump.seq
+  file: datas/players/rukusan/rukusan_punch_1.seq
+  file: datas/players/rukusan/rukusan_punch_2.seq
+  file: datas/players/rukusan/rukusan_kick_1.seq
+  file: datas/players/rukusan/rukusan_kick_2.seq
+  file: datas/players/rukusan/rukusan_special.seq
+  file: datas/players/rukusan/rukusan_death.seq
+  file: datas/players/rukusan/rukusan_victory.seq
+  file: datas/players/rukusan/rukusan_roll.seq
+}
+combotree: datas/players/rukusan/rukusanCombos.tree
+walkingspeed: 0.6
+jumpSpring: -0.2
+texture: graphics/players/rukusan-low.png

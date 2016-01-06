@@ -1,0 +1,6 @@
+idle: 0
+root seqIndex: a1 5
+root a1 seqIndex: a1 6
+root seqIndex: a2 7
+root a2 seqIndex: back 8
+root a1 a1 seqIndex: front 9 shoot: 3 10 guntherken emitSnd: 2 sounds/sfx/Guntherken.wav

@@ -1,0 +1,73 @@
+press_start {
+  francais @Appuyer sur une touche pour continuer@
+  english @Press any button to continue@
+  spanish @Pulse cualquier tecla para continuar@
+  latin @Instare ut semper aliqua key@
+  german @Drucken Sie eine beliebige Taste, um fortzufahren@
+  creol @Peze nenpòt ki kle yo kontinye@
+  italian @Premere un tasto qualsiasi per continuare@
+}
+menu_hint {
+  francais @Utilisez les fleches du clavier pour changer le poste de la television@
+  english @Use arrow keys to switch from a tv channel to another@
+}
+language_title {
+  francais @Choisissez une Langue@
+  english @Pick a Language@
+}
+option_hint {
+  francais @Appuyer sur la touche "entrer" pour appliquer les changements@
+  english @Press enter key to apply changes@
+}
+time_title {
+  francais @Temps@
+  english @Time@
+}
+programming_credit_title {
+  francais @Programmation@
+  english @Programming@
+}
+art_credit_title {
+  francais @Arts@
+  english @Arts@
+}
+thanks_credit_title {
+  francais @Un grand merci a@
+  english @Thanks to@
+}
+publisher_credit_title {
+  francais @Publie par@
+  english @Published by@
+}
+tools_credit_title {
+  francais @Outils@
+  english @Tools@
+}
+class_credit_title {
+  francais @Pour le cours@
+  english @For@
+}
+library_credit_title {
+  francais @Bibliotheque@
+  english @Library@
+}
+actors_credit_title {
+  francais @Acteurs@
+  english @Actors@
+}
+song_credit_title {
+  francais @Musiques@
+  english @Musics@
+}
+photographers_credit_title {
+  francais @Photographes@
+  english @Photographers@
+}
+photographer_director_credit_title {
+  francais @Directeur a la photographie@
+  english @Director of photography@
+}
+choose_your_fighter {
+  francais @Choississez vos combattants@
+  english @Choose your fighters@
+}

@@ -1,0 +1,21 @@
+name: Tralalathan
+health: 120
+sequences{
+  file: datas/players/tralalathan/tralalathan_idle.seq
+  file: datas/players/tralalathan/tralalathan_walk.seq
+  file: datas/players/tralalathan/tralalathan_block.seq
+  file: datas/players/tralalathan/tralalathan_hit.seq
+  file: datas/players/tralalathan/tralalathan_jump.seq
+  file: datas/players/tralalathan/tralalathan_punch_1.seq
+  file: datas/players/tralalathan/tralalathan_punch_2.seq
+  file: datas/players/tralalathan/tralalathan_kick_1.seq
+  file: datas/players/tralalathan/tralalathan_kick_2.seq
+  file: datas/players/tralalathan/tralalathan_special.seq
+  file: datas/players/tralalathan/tralalathan_roll.seq
+  file: datas/players/tralalathan/tralalathan_death.seq
+  file: datas/players/tralalathan/tralalathan_victory.seq
+}
+combotree: datas/players/tralalathan/tralalathanCombo.tree
+walkingspeed: 0.5
+jumpSpring: -0.2
+texture: graphics/players/spritesheet-low.png

@@ -1,0 +1,7 @@
+idle: 0
+root seqIndex: a1 6
+root a1 seqIndex: a2 7 dash: 200 200 0
+root seqIndex: a2 8
+root a2 seqIndex: front 10 shoot: 2 10 prinnyhat
+root a1 seqIndex: front 9
+root a2 seqIndex: back 8 dash: 800 500 0
