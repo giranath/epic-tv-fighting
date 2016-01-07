@@ -11,7 +11,7 @@
 #ifndef __TP3__CustomFX__
 #define __TP3__CustomFX__
 
-#include "FX.h"
+#include "Fx.h"
 
 namespace beat {
     class TextureManager;

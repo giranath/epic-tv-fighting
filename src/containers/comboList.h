@@ -185,7 +185,7 @@ namespace beat {
 			int index;
 			std::string who;
 
-			entree.open(fileName);
+			entree.open(fileName.c_str());
 			if(!entree)
 				std::cout << "Impossible de ouvrir " << fileName << "!";
 

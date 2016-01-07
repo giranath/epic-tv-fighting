@@ -7,7 +7,7 @@
  *
  */
 
-#include "FX.h"
+#include "Fx.h"
 #include <iostream>
 
 namespace beat {

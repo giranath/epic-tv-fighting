@@ -57,6 +57,9 @@ INCLUDE_DIRECTORIES(
     "${ROOT}"
 )
 
+# Set the c++ standard to C++11
+SET(CMAKE_CXX_STANDARD 11)
+
 ADD_EXECUTABLE(${EXECUTABLE_NAME} ${SOURCES})
 
 # Link to SFML

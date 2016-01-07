@@ -7,7 +7,7 @@
  *      Classe de base pour tous les acteurs du jeu, dérive d'Object
  */
 
-#include "object.h"
+#include "Object.h"
 #include "BoxBody.h"
 #include "ObjectManager.h"
 
