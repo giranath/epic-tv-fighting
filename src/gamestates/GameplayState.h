@@ -16,7 +16,7 @@
 #include "ObjectManager.h"
 #include <SFML/Graphics.hpp>
 #include "Projectile.h"
-#include "FX.h"
+#include "Fx.h"
 #include <SFML/Audio.hpp>
 #include "CollisionManager.h"
 #include "Game.h"

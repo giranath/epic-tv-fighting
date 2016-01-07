@@ -144,14 +144,13 @@ namespace beat {
         
         while(it != _textures.end()) {
             TextureHandler &handler = it->second;
+            std::map<std::string, TextureHandler>::iterator current = it++;
             
             if(handler.refCount == 0) {
                 delete it->second.texture;
                 
-                it = _textures.erase(it);
+                _textures.erase(current);
             }
-            else
-                it++;
             
         }
     }
