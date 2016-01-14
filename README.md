@@ -5,7 +5,7 @@ __Epic TV Fighting__ is a 2D fighting game.
 The game was made in a month. The source code has not changed to preserve it's inital state. I only adjust some things to be able to compile the project on
 my current hardware.
 
-![alt tag][http://i.imgur.com/LczLJqp.gif]
+![alt tag](http://i.imgur.com/LczLJqp.gif)
 
 ## Assets
 __Epic TV Fighting__ is quite data-driven. 
